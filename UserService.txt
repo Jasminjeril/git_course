@@ -1,3 +1,4 @@
 Get the data from the user...
 process the user data
 algorithm
+create an avatar to user
